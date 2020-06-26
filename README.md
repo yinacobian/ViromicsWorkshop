@@ -1,6 +1,6 @@
 # ViromicsWorkshop
 
-August 3, 2020
+August 10, 2020
 
 Viromics Workshop
 
