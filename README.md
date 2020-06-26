@@ -7,19 +7,25 @@ Workshop: a meeting at which a group of people engage in intensive discussion an
 To participate you need to complete the following requirements: 
 
 1) Have a dataset to work with 
+
 2) Have access to a server
+
 3) Be able to use the command line
+
 4) Be able to move files between your computer and the server
 
 ## 1. What to do with my data right after it's sequenced?
 
 1.1 Download
+
 1.2 Naming
+
 1.3 Quality filtering
 
 ## 2. Bacteria Genome Assembly
 
 2.1 Denovo assemply with SPADes
+
 2.2 From contigs to a single chromosome, CONTIGUATOR
 
 ## 3. Phage Genome Assembly 
