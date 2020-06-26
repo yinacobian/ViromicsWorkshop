@@ -34,6 +34,8 @@ To participate you need to complete the following requirements:
 
 2.2 From contigs to a single chromosome, CONTIGUATOR
 
+2.3 Bactetria genome annotation, PATRIC
+
 ## 3. Phage Genome Assembly 
 
 ## 4. Metagenomes to target databases using FRAP
