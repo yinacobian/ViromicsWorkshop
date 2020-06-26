@@ -1,5 +1,7 @@
 # ViromicsWorkshop
 
+August 3, 2020
+
 Viromics Workshop
 
 Workshop: a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.
