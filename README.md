@@ -54,4 +54,6 @@ To participate you need to complete the following requirements:
 
 9.1 SnakeMake
 
-9.1 Bash
+9.2 Bash
+
+9.3 Make
