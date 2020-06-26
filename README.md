@@ -16,6 +16,8 @@ To participate you need to complete the following requirements:
 
 5) Be able to download files from the web to the server
 
+6) Commit to finish the analysis of your dataset
+
 ## 1. What to do with my data right after it's sequenced?
 
 1.1 Download
