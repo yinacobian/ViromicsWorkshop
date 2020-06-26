@@ -41,3 +41,5 @@ To participate you need to complete the following requirements:
 ## 5. HeatMaps from FRAP output
 
 ## 6. Fragment Recruitment Plots 
+
+## 7. How to create a FRAP database?
