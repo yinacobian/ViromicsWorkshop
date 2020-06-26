@@ -10,7 +10,7 @@ To participate you need to complete the following requirements:
 3) Be able to use the command line
 4) Be able to move files between your computer and the server
 
-## 1. What to do with my data wight after it's sequenced?
+## 1. What to do with my data right after it's sequenced?
 
 1.1 Download
 1.2 Naming
