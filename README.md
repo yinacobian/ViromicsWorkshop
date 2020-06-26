@@ -49,3 +49,9 @@ To participate you need to complete the following requirements:
 ## 7. How to create a FRAP database?
 
 ## 8. I have a host-associated metagenome, how can I remove the host reads from the analysis?
+
+## 9. How can I put a pipeline together? 
+
+9.1 SnakeMake
+
+9.1 Bash
