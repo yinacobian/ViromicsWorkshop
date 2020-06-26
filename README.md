@@ -30,7 +30,7 @@ To participate you need to complete the following requirements:
 
 ## 3. Phage Genome Assembly 
 
-## 4. Metagenomes to target databases
+## 4. Metagenomes to target databases using FRAP
 
 4.1 Metagenome to viral refseq using FRAP 
 
