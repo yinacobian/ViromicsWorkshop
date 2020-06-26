@@ -3,13 +3,12 @@ Viromics workshop
 
 workshop: a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.
 
-To participate you need to have:
+To participate you need to complete the following requirements: 
 
-1) A dataset to work with 
-2) Access to a server
+1) Have a dataset to work with 
+2) Have access to a server
 3) Be able to use the command line
 4) Be able to move files between your computer and the server
-
 
 ## 1. What to do with my data wight after it's sequenced?
 
