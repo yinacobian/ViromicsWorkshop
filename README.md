@@ -14,6 +14,8 @@ To participate you need to complete the following requirements:
 
 4) Be able to move files between your computer and the server
 
+5) Be able to download files from the web to the server
+
 ## 1. What to do with my data right after it's sequenced?
 
 1.1 Download
