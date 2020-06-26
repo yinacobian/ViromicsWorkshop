@@ -20,13 +20,13 @@ To participate you need to complete the following requirements:
 
 6) Commit to finish the analysis of your dataset
 
-## 1. What to do with my data right after it's sequenced?
+## 1. What to do with my data after it's sequenced?
 
 1.1 Download
 
 1.2 Naming
 
-1.3 Quality filtering
+1.3 Quality filtering using prinseq++
 
 ## 2. Bacteria Genome Assembly
 
