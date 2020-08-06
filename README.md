@@ -57,6 +57,8 @@ https://www.patricbrc.org/
 
 BANDAGE paper: https://academic.oup.com/bioinformatics/article/31/20/3350/196114
 
+BANDAGE download: https://rrwick.github.io/Bandage/
+
 ## 4. Metagenomes to target databases using FRAP
 
 4.1 Metagenome to viral refseq using FRAP 
