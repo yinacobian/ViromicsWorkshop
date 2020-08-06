@@ -31,9 +31,13 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 1.3 Quality filtering using prinseq++
 
+prinseq++ paper: https://peerj.com/preprints/27553/
+
 ## 2. Bacteria Genome Assembly
 
 2.1 Denovo assemply with SPADes
+
+SPADes paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/
 
 2.2 From contigs to a single chromosome, CONTIGUATOR
 
