@@ -14,6 +14,9 @@ To participate you need to complete the following requirements:
 
 3) Be able to use the command line
 
+This is a good intro:
+https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#the-basics
+
 4) Be able to move files between your computer and the server
 
 5) Be able to download files from the web to the server
