@@ -43,6 +43,8 @@ SPADes paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/
 
 http://combo.dbe.unifi.it/contiguator
 
+CONTIGUATOR paper: https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-6-11
+
 2.3 Bactetria genome annotation, PATRIC
 
 https://www.patricbrc.org/
