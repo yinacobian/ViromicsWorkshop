@@ -49,6 +49,8 @@ CONTIGUATOR paper: https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-6-
 
 https://www.patricbrc.org/
 
+PATRIC paper: https://pubmed.ncbi.nlm.nih.gov/27899627/
+
 ## 3. Phage Genome Assembly 
 
 3.1 Subsampling the reads
