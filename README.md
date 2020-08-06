@@ -21,7 +21,7 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 5) Be able to download files from the web to the server
 
-6) Commit to finish the analysis of your dataset and share a figure for this repository
+6) Be willing to share a figure of your analysis for this repository
 
 ## 1. What to do with my data after it's sequenced?
 
