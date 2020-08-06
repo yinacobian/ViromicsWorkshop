@@ -37,7 +37,11 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 2.2 From contigs to a single chromosome, CONTIGUATOR
 
+http://combo.dbe.unifi.it/contiguator
+
 2.3 Bactetria genome annotation, PATRIC
+
+https://www.patricbrc.org/
 
 ## 3. Phage Genome Assembly 
 
