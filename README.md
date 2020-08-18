@@ -31,6 +31,10 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 `wget --user user --password pass http://example.com/`
 
+  * To copy files from a remote server
+  
+ `scp your_username@remotehost.edu:/home/examplefile.txt /some/local/directory`
+
 1.2 Naming
 
 
