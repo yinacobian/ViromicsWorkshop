@@ -38,7 +38,9 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 1.2 Naming
 
   * Single end reads look like this:
-  
+```
+sputumCF189mg_R1.fastq
+```
   
   * Pair end reads look like this:
 ```
