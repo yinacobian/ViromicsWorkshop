@@ -37,6 +37,16 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 1.2 Naming
 
+  * Single end reads look like this:
+  
+  
+  * Pair end reads look like this:
+  
+  * Single end reads from a single library, but with different barcodes look like this:
+  
+WCDNA-070617-45_S85_L004_R1_001.fastq.gz  
+WCDNA-070617-45_S85_L006_R1_001.fastq.gz
+WCDNA-070617-45_S85_L005_R1_001.fastq.gz
 
 1.3 Quality filtering using prinseq++
 
