@@ -27,7 +27,7 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 1.1 Download
 
-  *To download directly from a server with a username and password:
+  * To download directly from a server with a username and password:
 
 `wget --user user --password pass http://example.com/`
 
