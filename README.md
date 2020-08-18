@@ -69,6 +69,7 @@ prinseq++ paper: https://peerj.com/preprints/27553/
 _qual_window 2 -min_len 30 -min_qual_mean 20  -rm_header -out_name $2/P01_prinseq_output/{fileID} -threads $3 -out_format 1`
 
 What is a fastq file? https://en.wikipedia.org/wiki/FASTQ_format
+
 What is a phred quality score? https://en.wikipedia.org/wiki/Phred_quality_score
 
 ## 2. Bacteria Genome Assembly
