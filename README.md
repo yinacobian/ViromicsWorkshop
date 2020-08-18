@@ -65,7 +65,10 @@ BANDAGE download: https://rrwick.github.io/Bandage/
 
 ## 4. Metagenomes to target databases using FRAP
 
+https://github.com/yinacobian/frap
+
 4.1 Metagenome to viral refseq using FRAP 
+
 
 ## 5. HeatMaps from FRAP output
 
