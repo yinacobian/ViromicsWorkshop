@@ -29,7 +29,7 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 To download directly from a server with a username and password:
 
-`wget `
+`wget --user user --password pass http://example.com/`
 
 1.2 Naming
 
