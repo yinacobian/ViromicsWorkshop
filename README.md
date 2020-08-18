@@ -45,7 +45,13 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 VIP_2015_ART_1A_BS_mg_RUN2_R1.fastq 
 VIP_2015_ART_1A_BS_mg_RUN2_R2.fastq
 ```
+  Or like this:
   
+```
+phiAxy06_S67_R1_001.fastq
+phiAxy06_S67_R2_001.fastq
+```
+
   * Single end reads from a single library, but with different barcodes look like this:
 ```
 WCDNA-070617-45_S85_L004_R1_001.fastq.gz  
