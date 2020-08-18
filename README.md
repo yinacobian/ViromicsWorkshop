@@ -41,6 +41,10 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
   
   
   * Pair end reads look like this:
+```
+VIP_2015_ART_1A_BS_mg_RUN2_R1.fastq 
+VIP_2015_ART_1A_BS_mg_RUN2_R2.fastq
+```
   
   * Single end reads from a single library, but with different barcodes look like this:
 ```
