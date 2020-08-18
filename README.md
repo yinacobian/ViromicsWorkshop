@@ -27,6 +27,9 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 1.1 Download
 
+To wodnload directly from a server with a username and password:
+
+wget 
 
 1.2 Naming
 
