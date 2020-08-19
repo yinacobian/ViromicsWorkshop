@@ -74,9 +74,9 @@ _qual_window 2 -min_len 30 -min_qual_mean 20  -rm_header -out_name $2/P01_prinse
 
   * prinseq++ for paired end files
   
-What is a fastq file? https://en.wikipedia.org/wiki/FASTQ_format
+> What is a fastq file? https://en.wikipedia.org/wiki/FASTQ_format
 
-What is a phred quality score? https://en.wikipedia.org/wiki/Phred_quality_score
+> What is a phred quality score? https://en.wikipedia.org/wiki/Phred_quality_score
 
 ## 2. Bacteria Genome Assembly
 
