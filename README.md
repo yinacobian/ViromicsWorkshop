@@ -120,7 +120,10 @@ subsample_100000_WCDNA-070617-45_S85_L004_R1_001_good_out.fasta
 
 > What is FRAP? https://github.com/yinacobian/frap
 
-2.1 Metagenome to viral refseq using FRAP 
+2.1 Metagenome to any database using FRAP 
+
+https://github.com/yinacobian/FRAP-basic
+
 
 ## 3. How to create a FRAP database?
 
