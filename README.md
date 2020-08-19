@@ -94,6 +94,13 @@ prinseq++ paper: https://peerj.com/preprints/27553/
   
 `prinseq++ -fastq WCDNA-070617-45_S85_L004_R1_001.fastq.gz -ns_max 0 -derep -lc_entropy=0.5 -trim_qual_right=15 -trim_qual_left=15 -trim_qual_type mean -trim_qual_rule lt -trim_qual_window 2 -min_len 30 -min_qual_mean 20 -rm_header -out_name WCDNA-070617-45_S85_L004_R1_001 -threads 5 -out_format 1`
 
+the output looks like this:
+
+```
+WCDNA-070617-45_S85_L004_R1_001_good_out.fasta
+WCDNA-070817-45_S86_L004_R1_001_bad_out.fasta
+```
+
   * prinseq++ for paired end files
   
 > What is a fastq file? https://en.wikipedia.org/wiki/FASTQ_format
