@@ -111,7 +111,7 @@ WCDNA-070817-45_S86_L004_R1_001_bad_out.fasta
 
 `perl ~/bin/random-sample-fasta.pl -i WCDNA-070617-45_S85_L004_R1_001_good_out.fasta -o subsample_100000_WCDNA-070617-45_S85_L004_R1_001_good_out.fasta -n 100000`
 
-the output looks liek this:
+the output looks like this:
 
 ```
 subsample_100000_WCDNA-070617-45_S85_L004_R1_001_good_out.fasta
