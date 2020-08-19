@@ -127,13 +127,13 @@ https://github.com/yinacobian/FRAP-basic
 
 ## 3. How to create a FRAP database?
 
-A FRAP database is any fasta or multifasta file with the following requirements:
+A FRAP database is any fasta or multifasta file with the following characteristics:
 
 Each sequence has a unique ID
 
 Each sequence header has the following format:
 
-`>UNIQUEID Name description of the sequence`
+`>UNIQUEID Sequence name or description of the sequence`
 
 
 ## 4. Fragment Recruitment Plots 
