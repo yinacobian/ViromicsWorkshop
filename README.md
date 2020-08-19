@@ -23,6 +23,15 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 6) Be willing to share a figure of your analysis for this repository
 
+## 0. Materials
+
+Example metagenomes
+`/home/SHARE/ViromicsWorkshop/example-metagenome`
+
+Example bacteria genome
+
+Example phage genome 
+
 ## 1. What to do with my data after it's sequenced?
 
 ### 1.1 Download
