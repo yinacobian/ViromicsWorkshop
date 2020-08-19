@@ -35,7 +35,9 @@ Example phage genome reads
 `/home/SHARE/ViromicsWorkshop/example-phage`
 
 Reference genome for bacteria assembly
-``
+
+Reference database: Viral RefSeq 
+`/home/DATABASES/RefSeq/viral/all_viral_genomic.fna`
 
 ## 1. What to do with my data after it's sequenced?
 
