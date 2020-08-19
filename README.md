@@ -25,7 +25,7 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 ## 1. What to do with my data after it's sequenced?
 
-1.1 Download
+### 1.1 Download
 
   * To download files directly from a server with a username and password:
 
@@ -35,7 +35,7 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
   
  `scp your_username@remotehost.edu:/home/examplefile.txt /some/local/directory`
 
-1.2 Naming
+### 1.2 Naming
 
   * Single end reads look like this:
 ```
@@ -63,7 +63,7 @@ WCDNA-070617-45_S85_L006_R1_001.fastq.gz
 
 > What is a paired end read? https://www.youtube.com/watch?v=WneZp3fSJIk
 
-1.3 Quality filtering using prinseq++
+### 1.3 Quality filtering using prinseq++
 
 prinseq++ paper: https://peerj.com/preprints/27553/
 
@@ -80,7 +80,7 @@ _qual_window 2 -min_len 30 -min_qual_mean 20  -rm_header -out_name $2/P01_prinse
 
 ## 2. Bacteria Genome Assembly
 
-2.1 Denovo assemply with SPADes
+### 2.1 Denovo assemply with SPADes
 
 SPADes paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/
 
