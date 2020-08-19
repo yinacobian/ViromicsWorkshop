@@ -107,6 +107,10 @@ WCDNA-070817-45_S86_L004_R1_001_bad_out.fasta
 
 > What is a phred quality score? https://en.wikipedia.org/wiki/Phred_quality_score
 
+### 1.4 (Optional) Subsampling of the reads
+
+`perl ~/bin/random-sample-fasta.pl -i WCDNA-070617-45_S85_L004_R1_001_good_out.fasta -o subsample_100000_WCDNA-070617-45_S85_L004_R1_001_good_out.fasta -n 100000`
+
 ## 2. Bacteria Genome Assembly
 
 ### 2.1 Denovo assemply with SPADes
