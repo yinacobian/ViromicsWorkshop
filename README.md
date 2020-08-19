@@ -25,6 +25,8 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 ## 0. Materials
 
+  *DATASETS
+  
 Example metagenomes reads
 `/home/SHARE/ViromicsWorkshop/example-metagenome`
 
@@ -33,6 +35,8 @@ Example bacteria genome reads
 
 Example phage genome reads
 `/home/SHARE/ViromicsWorkshop/example-phage`
+
+  *DATABASES
 
 Reference genome for bacteria assembly
 
