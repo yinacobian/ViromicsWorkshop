@@ -118,7 +118,7 @@ subsample_100000_WCDNA-070617-45_S85_L004_R1_001_good_out.fasta
 ```
 ## 2. Metagenomes to target databases using FRAP
 
-https://github.com/yinacobian/frap
+> What is FRAP? https://github.com/yinacobian/frap
 
 2.1 Metagenome to viral refseq using FRAP 
 
