@@ -29,8 +29,10 @@ Example metagenomes
 `/home/SHARE/ViromicsWorkshop/example-metagenome`
 
 Example bacteria genome
+`/home/SHARE/ViromicsWorkshop/example-bacteria`
 
 Example phage genome 
+`/home/SHARE/ViromicsWorkshop/example-phage`
 
 ## 1. What to do with my data after it's sequenced?
 
