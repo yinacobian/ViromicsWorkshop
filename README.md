@@ -92,8 +92,7 @@ prinseq++ paper: https://peerj.com/preprints/27553/
 
   * prinseq++ for single end files
   
-`prinseq++ -fastq $2/P00_raw/{fileID}_R1.fastq -ns_max 0 -derep -lc_entropy=0.5 -trim_qual_right=15 -trim_qual_left=15 -trim_qual_type mean -trim_qual_rule lt -trim
-_qual_window 2 -min_len 30 -min_qual_mean 20  -rm_header -out_name $2/P01_prinseq_output/{fileID} -threads $3 -out_format 1`
+`prinseq++ -fastq WCDNA-070617-45_S85_L004_R1_001.fastq.gz -ns_max 0 -derep -lc_entropy=0.5 -trim_qual_right=15 -trim_qual_left=15 -trim_qual_type mean -trim_qual_rule lt -trim_qual_window 2 -min_len 30 -min_qual_mean 20 -rm_header -out_name WCDNA-070617-45_S85_L004_R1_001 -threads 5 -out_format 1`
 
   * prinseq++ for paired end files
   
