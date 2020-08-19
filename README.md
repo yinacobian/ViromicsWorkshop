@@ -150,7 +150,7 @@ https://github.com/yinacobian/FRAP-tools
 
 Use SPADes
 
-`spades.py -s $2/P03_subsample_denovo/{fileID}_good_out_R1_subsample_50000.fasta --only-assembler -t $3 -o $2/P03_subsample_denovo/spades_50000_{fileID}"`
+`spades.py -s reads.fasta --only-assembler -t 20 -o output_for_reads"`
 
 ### 5.2 From contigs to a single chromosome, CONTIGUATOR
 
