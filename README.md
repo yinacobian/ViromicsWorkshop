@@ -56,9 +56,9 @@ phiAxy06_S67_R2_001.fastq
 
   * Single end reads from a single library, but with different barcodes look like this:
 ```
-WCDNA-070617-45_S85_L004_R1_001.fastq.gz  
-WCDNA-070617-45_S85_L006_R1_001.fastq.gz
+WCDNA-070617-45_S85_L004_R1_001.fastq.gz
 WCDNA-070617-45_S85_L005_R1_001.fastq.gz
+WCDNA-070617-45_S85_L006_R1_001.fastq.gz
 ```
 
 What is a paired end read? https://www.youtube.com/watch?v=WneZp3fSJIk
