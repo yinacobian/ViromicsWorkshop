@@ -116,50 +116,48 @@ the output looks like this:
 ```
 subsample_100000_WCDNA-070617-45_S85_L004_R1_001_good_out.fasta
 ```
+## 2. Metagenomes to target databases using FRAP
 
-## 2. Bacteria Genome Assembly
+https://github.com/yinacobian/frap
 
-### 2.1 Denovo assemply with SPADes
+2.1 Metagenome to viral refseq using FRAP 
+
+## 3. How to create a FRAP database?
+
+## 4. Fragment Recruitment Plots 
+
+https://github.com/yinacobian/FRAP-tools
+
+
+
+## 5. Bacteria Genome Assembly
+
+### 5.1 Denovo assemply with SPADes
 
 SPADes paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/
 
-2.2 From contigs to a single chromosome, CONTIGUATOR
+5.2 From contigs to a single chromosome, CONTIGUATOR
 
 http://combo.dbe.unifi.it/contiguator
 
 CONTIGUATOR paper: https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-6-11
 
-2.3 Bactetria genome annotation, PATRIC
+5.3 Bactetria genome annotation, PATRIC
 
 https://www.patricbrc.org/
 
 PATRIC paper: https://pubmed.ncbi.nlm.nih.gov/27899627/
 
-## 3. Phage Genome Assembly 
+## 6. Phage Genome Assembly 
 
-3.1 Subsampling the reads
+6.1 Subsampling the reads
 
-3.2 Denovo assembly with SPADes
+6.2 Denovo assembly with SPADes
 
-3.3 Assembly visualization with BANDAGE
+6.3 Assembly visualization with BANDAGE
 
 BANDAGE paper: https://academic.oup.com/bioinformatics/article/31/20/3350/196114
 
 BANDAGE download: https://rrwick.github.io/Bandage/
 
-## 4. Metagenomes to target databases using FRAP
-
-https://github.com/yinacobian/frap
-
-4.1 Metagenome to viral refseq using FRAP 
-
-
-## 5. HeatMaps from FRAP output
-
-
-## 6. Fragment Recruitment Plots 
-
-https://github.com/yinacobian/FRAP-tools
-
-## 7. How to create a FRAP database?
 
