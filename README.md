@@ -25,14 +25,17 @@ https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#t
 
 ## 0. Materials
 
-Example metagenomes
+Example metagenomes reads
 `/home/SHARE/ViromicsWorkshop/example-metagenome`
 
-Example bacteria genome
+Example bacteria genome reads
 `/home/SHARE/ViromicsWorkshop/example-bacteria`
 
-Example phage genome 
+Example phage genome reads
 `/home/SHARE/ViromicsWorkshop/example-phage`
+
+Reference genome for bacteria assembly
+``
 
 ## 1. What to do with my data after it's sequenced?
 
