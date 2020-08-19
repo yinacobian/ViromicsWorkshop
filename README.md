@@ -152,13 +152,13 @@ Use SPADes
 
 `spades.py -s $2/P03_subsample_denovo/{fileID}_good_out_R1_subsample_50000.fasta --only-assembler -t $3 -o $2/P03_subsample_denovo/spades_50000_{fileID}"`
 
-5.2 From contigs to a single chromosome, CONTIGUATOR
+### 5.2 From contigs to a single chromosome, CONTIGUATOR
 
 http://combo.dbe.unifi.it/contiguator
 
 CONTIGUATOR paper: https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-6-11
 
-5.3 Bactetria genome annotation, PATRIC
+### 5.3 Bactetria genome annotation, PATRIC
 
 https://www.patricbrc.org/
 
