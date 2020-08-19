@@ -146,7 +146,11 @@ https://github.com/yinacobian/FRAP-tools
 
 ### 5.1 Denovo assemply with SPADes
 
-SPADes paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/
+> SPADes paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342519/
+
+Use SPADes
+
+`spades.py -s $2/P03_subsample_denovo/{fileID}_good_out_R1_subsample_50000.fasta --only-assembler -t $3 -o $2/P03_subsample_denovo/spades_50000_{fileID}"`
 
 5.2 From contigs to a single chromosome, CONTIGUATOR
 
