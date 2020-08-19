@@ -144,5 +144,3 @@ https://github.com/yinacobian/FRAP-tools
 
 ## 7. How to create a FRAP database?
 
-
-## 8. I have a host-associated metagenome, how can I remove the host reads from the analysis?
