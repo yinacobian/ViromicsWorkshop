@@ -43,6 +43,9 @@ Reference genome for bacteria assembly
 Reference database: Viral RefSeq 
 `/home/DATABASES/RefSeq/viral/all_viral_genomic.fna`
 
+Reference database: Virulence Factors
+`/home/DATABASES/VirulenceFactors/VFDB_setA_nt.fas`
+
 ## 1. What to do with my data after it's sequenced?
 
 ### 1.1 Download
