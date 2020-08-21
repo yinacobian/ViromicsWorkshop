@@ -144,7 +144,7 @@ https://github.com/yinacobian/FRAP-tools
 
 Examples:
 
-  * Water column metagenome agains Pelagibacter genome, created by Jason Baer
+  * Water column metagenome from Curacao agains a *Pelagibacter* genome, created by Jason Baer
 
 ![Palegibacter!](fragplot_subsample_100000_CSA229_S182_L008_R1_001_good_out_AZAL01000001.1.png)
 
