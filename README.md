@@ -140,7 +140,7 @@ Each sequence header has the following format:
 
 https://github.com/yinacobian/FRAP-tools
 
-
+![Palegibacter!](images/friends.png)
 
 ## 5. Bacteria Genome Assembly
 
