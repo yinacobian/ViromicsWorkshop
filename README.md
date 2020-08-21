@@ -138,7 +138,11 @@ Each sequence header has the following format:
 
 ## 4. Fragment Recruitment Plots 
 
+4.1 Create Fragment Recruitment Plots: 
+
 https://github.com/yinacobian/FRAP-tools
+
+Example:
 
 ![Palegibacter!](fragplot_subsample_100000_CSA229_S182_L008_R1_001_good_out_AZAL01000001.1.png)
 
