@@ -148,6 +148,10 @@ Examples:
 
 ![Palegibacter!](fragplot_subsample_100000_CSA229_S182_L008_R1_001_good_out_AZAL01000001.1.png)
 
+  * Prophage induction: Achromophage lysate reads recruited against *Achromobacter xylosoxidans* genome, created by Ana Cobian
+  
+![Prophage](fragplot_LB5-V-cscl_good_out_R2_AchromobacterCF418.png)
+
 ## 5. Bacteria Genome Assembly
 
 ### 5.1 Denovo assemply with SPADes
