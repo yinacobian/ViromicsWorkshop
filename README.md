@@ -160,7 +160,7 @@ Examples:
 
 Use SPADes
 
-`spades.py -s reads.fasta --only-assembler -t 20 -o output_for_reads"`
+`spades.py -s reads.fasta --only-assembler -t 20 -o output_for_reads`
 
 ### 5.2 From contigs to a single chromosome, CONTIGUATOR
 
